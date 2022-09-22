@@ -5,7 +5,7 @@ O cocho que utiliza o controlador arduino para receber informações como distan
 
 ## Bibliotecas IDE arduino
 
--Ultrasonic - Usada para ativar e captar as informações do sensor de distância
+- Ultrasonic - Usada para ativar e captar as informações do sensor de distância
 
 ## Bibliotecas python
 
